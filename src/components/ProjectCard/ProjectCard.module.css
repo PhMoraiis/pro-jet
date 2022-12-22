@@ -1,0 +1,87 @@
+.ProjectCard {
+    padding: 1em;
+    border: 1px solid #7a7a7a;
+    border-radius: 10px;
+    width: 24%;
+    margin: .5%;
+}
+
+.ProjectCard h4 {
+    background-color: #222;
+    color: #FFBB33;
+    padding: .4em;
+    margin-bottom: 1.3em;
+    font-size: 1.3em;
+    border-radius: 10px;
+}
+
+.ProjectCard p {
+    color: #7a7a7a;
+    margin-bottom: 1em;
+}
+
+.ProjectCard p span {
+    font-weight: bold;
+}
+
+.CategoryText {
+    display: flex;
+    align-items: center;
+}
+
+.CategoryText span {
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin-right: 5px;
+}
+
+.CategoryText .infra {
+    background-color: #ffaebc;
+}
+
+.CategoryText .desenvolvimento {
+    background-color: #A0E7E5;
+}
+
+.CategoryText .design {
+    background-color: #B4F8C8;
+}
+
+.CategoryText .planejamento {
+    background-color: #FBE7C6;
+}
+
+.ProjectCardActions {
+    margin-top: 1.2em;
+    display: flex;
+    align-items: center;
+}
+
+.ProjectCardActions a, .ProjectCardActions button {
+    text-decoration: none;
+    border: none;
+    background-color: #FFF;
+    color: #222;
+    font-size: .9em;
+    padding: .6em 1em;
+    cursor: pointer;
+    margin-right: 1em;
+    border: 1px solid #222;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+.ProjectCardActions svg {
+    margin-right: .5em;
+}
+
+.ProjectCardActions a:hover, .ProjectCardActions button:hover {
+    background-color: #222;
+    color: #FFBB33;
+}

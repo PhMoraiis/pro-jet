@@ -1,0 +1,21 @@
+{
+    "projects": [],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Infraestrutura"
+        },
+        {
+            "id": 2,
+            "name": "Planejamento"
+        },
+        {
+            "id": 3,
+            "name": "Desenvolvimento"
+        },
+        {
+            "id": 4,
+            "name": "Design"
+        }
+    ]
+}

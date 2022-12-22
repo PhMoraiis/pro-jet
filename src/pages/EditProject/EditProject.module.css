@@ -1,0 +1,46 @@
+.ProjectDetails {
+    padding: 2em;
+}
+
+.ProjectDetails h1, .ProjectDetails h2 {
+    margin-bottom: .5em;
+}
+
+.ProjectDetails h1 {
+    background-color: #222;
+    color: #FFBB33;
+    padding: 1.4em;
+}
+
+.ProjectDetails span {
+    font-weight: bold;
+}
+
+.DetailsContainer, .ServiceFormContainer {
+    border-bottom: 1px solid #7a7a7a;
+    padding-bottom: 1.2em;
+    margin-bottom: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.btn {
+    background-color: #252525;
+    color: #FFFFFF;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 10px;
+    cursor: pointer;
+    max-height: 40px;
+    border: none;
+}
+
+.btn:hover {
+    color: #FFBB33;
+}
+
+.ProjectInfo {
+    width: 100%;
+}
