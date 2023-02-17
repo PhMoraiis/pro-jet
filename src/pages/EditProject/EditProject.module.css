@@ -7,8 +7,8 @@
 }
 
 .ProjectDetails h1 {
-    background-color: #222;
-    color: #FFBB33;
+    background-color: #22272E;
+    color: #FFE779;
     padding: 1.4em;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .btn {
-    background-color: #252525;
+    background-color: #22272E;
     color: #FFFFFF;
     padding: 0.5em 1em;
     text-decoration: none;
@@ -38,7 +38,7 @@
 }
 
 .btn:hover {
-    color: #FFBB33;
+    color: #FFE779;
 }
 
 .ProjectInfo {

@@ -13,9 +13,9 @@
 }
 
 .containerHome h1 span {
-    color: #FFBB33;
+    color: #FFE779;
     padding: 0 .2em;
-    background-color: #252525;
+    background-color: #22272E;
     border-radius: 10px;
 }
 
@@ -25,6 +25,6 @@
 }
 
 .containerHome img {
-    width: 350px;
-    margin: 2em 0;
+    width: 1000px;
+    margin: 0 auto;
 }

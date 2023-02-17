@@ -1,5 +1,5 @@
 .footer {
-    background-color: #252525;
+    background-color: #22272E;
     color: #FFFFFF;
     padding: 3em;
     text-align: center;
@@ -16,7 +16,7 @@
 }
 
 .socialList li:hover {
-    color: #FFBB33;
+    color: #FFE779;
     transition: 1s all;
 }
 
@@ -31,5 +31,5 @@
 
 .copyRight span {
     font-weight: bold;
-    color: #FFBB33;
+    color: #FFE779;
 }
